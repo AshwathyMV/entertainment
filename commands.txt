@@ -1,0 +1,2 @@
+#index file contains html structure
+#style contains styling
